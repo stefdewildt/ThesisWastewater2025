@@ -1,0 +1,44 @@
+GCN
+
+02:
+Epoch: 199, Loss: 0.3856, Val Loss: 0.4134, MAE Loss: 0.4776, R2: 0.6070
+
+03:
+Epoch: 199, Loss: 0.3535, Val Loss: 0.3643, MAE Loss: 0.4390, R2: 0.6359
+
+04:
+Epoch: 199, Loss: 0.3816, Val Loss: 0.3737, MAE Loss: 0.4504, R2: 0.6296
+
+05:
+Epoch: 199, Loss: 0.3376, Val Loss: 0.3655, MAE Loss: 0.4374, R2: 0.6347
+
+06:
+Epoch: 199, Loss: 0.3785, Val Loss: 0.3927, MAE Loss: 0.4721, R2: 0.6074
+
+07:
+Epoch: 199, Loss: 0.3619, Val Loss: 0.3601, MAE Loss: 0.4394, R2: 0.6507
+
+010:
+Epoch: 199, Loss: 0.3891, Val Loss: 0.3793, MAE Loss: 0.4579, R2: 0.6291
+
+GraphSage
+02:
+Epoch: 199, Loss: 0.3046, Val Loss: 0.3464, MAE Loss: 0.4399, R2: 0.6633
+
+03:
+Epoch: 199, Loss: 0.2823, Val Loss: 0.2870, MAE Loss: 0.3932, R2: 0.7175
+
+04:
+Epoch: 199, Loss: 0.2955, Val Loss: 0.3148, MAE Loss: 0.4267, R2: 0.6826
+
+05: 
+Epoch: 199, Loss: 0.2763, Val Loss: 0.2960, MAE Loss: 0.4019, R2: 0.7211
+
+06:
+Epoch: 199, Loss: 0.2992, Val Loss: 0.3331, MAE Loss: 0.4414, R2: 0.6736
+
+07:
+Epoch: 199, Loss: 0.2757, Val Loss: 0.3020, MAE Loss: 0.4047, R2: 0.7070
+
+010:
+Epoch: 199, Loss: 0.3199, Val Loss: 0.3328, MAE Loss: 0.4358, R2: 0.6745

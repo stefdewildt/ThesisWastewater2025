@@ -1,0 +1,10 @@
+DEVICE = 'cuda'
+INPUT_DIM = 2
+HIDDEN_DIM = 64
+OUTPUT_DIM = 13
+DROPOUT = 0.2
+TRAIN_SPLIT = 0.8
+EPOCHS = 200
+LR = 0.01
+GRAPH_PATH = '../pickle/depnod_graph_03.pkl'
+CHECKPOINT_PATH = 'checkpoints/gcn_model.pt'
